@@ -1,3 +1,3 @@
 # API-obat-herbal
 
-Project UAS Mata Kuliah Rekayasa Web
+Proyek untuk melengkapi nilai UAS (Ujian Akhir Semester) Mata Kuliah Rekayasa Web 
